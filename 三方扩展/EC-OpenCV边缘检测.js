@@ -13,3 +13,7 @@ function Canny(image,threshold1,threshold2){
     Imgproc.Canny(image,ret,threshold1,threshold2)
     return ret
 }
+
+这个不太会用,好像还要审核,欢迎大家访问:
+https://gitee.com/cf183838/ec-opencv/tree/master/
+会有例子什么在里面,欢迎大家关注.
